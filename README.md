@@ -1,4 +1,7 @@
 # wp-content
+
+[![GitHub version](https://badge.fury.io/gh/thanatos-vf-2000%2Fwp-content.svg)](https://badge.fury.io/gh/thanatos-vf-2000%2Fwp-content)
+
 specific file for wp-content
 
 ## Display DB error
